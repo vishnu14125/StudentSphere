@@ -1,0 +1,2 @@
+# Evaluation Methodology v2
+Relevance was manually determined based on semantic/content relevance by mapping technical keywords directly to the answers in the documents. Category membership was NOT used. No LLMs were used to generate these ground truth mappings.

@@ -1,0 +1,166 @@
+C:\Users\Vishnu\Web projects\MERN\StudentSphere\ai-service\app\services\llm_service.py:4: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+Starting validation tests...
+Embedding model: sentence-transformers/all-MiniLM-L6-v2
+OPENAI_MODEL: gpt-4o-mini
+
+--- 1. Indexing Data ---
+Indexed 3 documents successfully.
+
+--- 2. Executing Queries ---
+
+Query: What questions were asked in Amazon SDE interviews?
+{
+  "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+  "insights": [],
+  "sources": [],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.103,
+    "llm_latency_sec": 0.0,
+    "total_latency_sec": 0.103,
+    "chunks_retrieved": 0
+  }
+}
+
+Query: What topics commonly appear in software engineering interviews?
+LLM generation failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+{
+  "answer": "An error occurred while generating the answer with the AI service.",
+  "insights": [
+    "Software",
+    "Engineer"
+  ],
+  "sources": [
+    {
+      "interviewId": "int2",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Software Engineer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.7386510227559387,
+      "excerpt": "Software engineering interviews usually cover Data Structures, Algorithms, and System Design. You should prepare well."
+    }
+  ],
+  "grounded": true,
+  "success": false,
+  "metrics": {
+    "retrieval_latency_sec": 0.064,
+    "llm_latency_sec": 0.661,
+    "total_latency_sec": 0.725,
+    "chunks_retrieved": 1
+  }
+}
+
+Query: What should I prepare for technical interviews?
+LLM generation failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+{
+  "answer": "An error occurred while generating the answer with the AI service.",
+  "insights": [
+    "Software",
+    "Engineer"
+  ],
+  "sources": [
+    {
+      "interviewId": "int2",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Software Engineer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.6379639032505102,
+      "excerpt": "Software engineering interviews usually cover Data Structures, Algorithms, and System Design. You should prepare well."
+    }
+  ],
+  "grounded": true,
+  "success": false,
+  "metrics": {
+    "retrieval_latency_sec": 0.018,
+    "llm_latency_sec": 0.323,
+    "total_latency_sec": 0.341,
+    "chunks_retrieved": 1
+  }
+}
+
+Query: What was reported about system design interviews?
+LLM generation failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+{
+  "answer": "An error occurred while generating the answer with the AI service.",
+  "insights": [
+    "Software",
+    "Engineer",
+    "Backend",
+    "Developer"
+  ],
+  "sources": [
+    {
+      "interviewId": "int2",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Software Engineer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.570324145071424,
+      "excerpt": "Software engineering interviews usually cover Data Structures, Algorithms, and System Design. You should prepare well."
+    },
+    {
+      "interviewId": "int3",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Backend Developer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.5178968649219476,
+      "excerpt": "System design interviews focus on scalability, database sharding, caching, and load balancing."
+    }
+  ],
+  "grounded": true,
+  "success": false,
+  "metrics": {
+    "retrieval_latency_sec": 0.023,
+    "llm_latency_sec": 0.357,
+    "total_latency_sec": 0.381,
+    "chunks_retrieved": 2
+  }
+}
+
+Query: How do I cook a turkey?
+{
+  "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+  "insights": [],
+  "sources": [],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.028,
+    "llm_latency_sec": 0.0,
+    "total_latency_sec": 0.028,
+    "chunks_retrieved": 0
+  }
+}
+
+--- 3. Testing High Threshold (No Evidence) ---
+{
+  "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+  "insights": [],
+  "sources": [],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.024,
+    "llm_latency_sec": 0.0,
+    "total_latency_sec": 0.024,
+    "chunks_retrieved": 0
+  }
+}
+
+Validation complete.

@@ -1,0 +1,12 @@
+# Python 3.12-compatible dependency set for the StudentSphere AI service.
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+httpx>=0.27.0
+openai==1.3.0
+sentence-transformers==3.3.1
+numpy==1.26.4
+scikit-learn
+

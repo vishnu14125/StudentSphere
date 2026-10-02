@@ -1,0 +1,210 @@
+[
+  {
+    "query_id": "Q02",
+    "query": "What object-oriented concepts should I know for interviews?",
+    "timestamp": 1789531689.287575,
+    "baseline": {
+      "prompt": "What object-oriented concepts should I know for interviews?",
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "model": "gemini-1.5-pro",
+      "latency_ms": 0.0
+    },
+    "rag": {
+      "prompt_context": [
+        "Source: Unknown company - None\nContent: Question: Describe the principles of Object-Oriented Programming (OOP). Answer: OOP principles include encapsulation, inheritance, polymorphism, and abstraction, promoting organized and maintainable code."
+      ],
+      "retrieved_evidence": [
+        {
+          "doc_id": "DOC_005_chunk_0",
+          "question": "Describe the principles of Object-Oriented Programming (OOP). Answer: OOP principles include encapsulation, inheritance, polymorphism, and abstraction, promoting organized and maintainable code.",
+          "answer": "",
+          "similarity": 0.5397511334863969
+        }
+      ],
+      "answer": "An error occurred while generating the answer with the AI service.",
+      "model": "gemini-1.5-pro",
+      "retrieval_latency_ms": 932.2850704193115,
+      "generation_latency_ms": 1330.6496143341064,
+      "total_latency_ms": 2262.934684753418
+    }
+  },
+  {
+    "query_id": "Q04",
+    "query": "How does caching improve system performance?",
+    "timestamp": 1789531693.8189745,
+    "baseline": {
+      "prompt": "How does caching improve system performance?",
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "model": "gemini-1.5-pro",
+      "latency_ms": 0.0
+    },
+    "rag": {
+      "prompt_context": [
+        "Source: Unknown company - None\nContent: Question: Explain the importance of caching in web applications. Answer: Caching stores frequently accessed data for faster retrieval, reducing backend load, improving performance, and enhancing user experience.",
+        "Source: Unknown company - None\nContent: Question: Design and implement a large-scale distributed cache system. Answer: Consider consistency, data partitioning, eviction policies, and fault tolerance in distributed caching."
+      ],
+      "retrieved_evidence": [
+        {
+          "doc_id": "DOC_073_chunk_0",
+          "question": "Explain the importance of caching in web applications. Answer: Caching stores frequently accessed data for faster retrieval, reducing backend load, improving performance, and enhancing user experience.",
+          "answer": "",
+          "similarity": 0.747461786827403
+        },
+        {
+          "doc_id": "DOC_184_chunk_0",
+          "question": "Design and implement a large-scale distributed cache system. Answer: Consider consistency, data partitioning, eviction policies, and fault tolerance in distributed caching.",
+          "answer": "",
+          "similarity": 0.5791095785491726
+        }
+      ],
+      "answer": "An error occurred while generating the answer with the AI service.",
+      "model": "gemini-1.5-pro",
+      "retrieval_latency_ms": 119.08674240112305,
+      "generation_latency_ms": 410.4301929473877,
+      "total_latency_ms": 529.5169353485107
+    }
+  },
+  {
+    "query_id": "Q08",
+    "query": "What is the difference between SQL and NoSQL databases?",
+    "timestamp": 1789531698.311799,
+    "baseline": {
+      "prompt": "What is the difference between SQL and NoSQL databases?",
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "model": "gemini-1.5-pro",
+      "latency_ms": 0.0
+    },
+    "rag": {
+      "prompt_context": [
+        "Source: Unknown company - None\nContent: Question: What is the difference between SQL and NoSQL databases? Answer: SQL databases are structured, use SQL, and are better for complex queries. NoSQL databases are flexible, scale well, and are good for hierarchical data storage.",
+        "Source: Unknown company - None\nContent: Question: What is the difference between SQL and NoSQL databases? Answer: SQL databases are structured, use SQL, and are better for complex queries. NoSQL databases are flexible, scale well, and are good for hierarchical data storage.",
+        "Source: Unknown company - None\nContent: Question: Explain the differences between SQL and NoSQL databases. Answer: SQL databases use structured query language with a predefined schema; NoSQL databases store schema-less data with flexible models.",
+        "Source: Unknown company - None\nContent: Question: How do NoSQL databases handle data scaling compared to traditional SQL databases? Answer: NoSQL databases are generally more scalable and provide superior performance for large-scale applications due to their flexibility in handling unstructured data.",
+        "Source: Unknown company - None\nContent: Question: How do NoSQL databases handle data scaling compared to traditional SQL databases? Answer: NoSQL databases are generally more scalable and provide superior performance for large-scale applications due to their flexibility in handling unstructured data."
+      ],
+      "retrieved_evidence": [
+        {
+          "doc_id": "DOC_129_chunk_0",
+          "question": "What is the difference between SQL and NoSQL databases? Answer: SQL databases are structured, use SQL, and are better for complex queries. NoSQL databases are flexible, scale well, and are good for hierarchical data storage.",
+          "answer": "",
+          "similarity": 0.8800973711627516
+        },
+        {
+          "doc_id": "DOC_105_chunk_0",
+          "question": "What is the difference between SQL and NoSQL databases? Answer: SQL databases are structured, use SQL, and are better for complex queries. NoSQL databases are flexible, scale well, and are good for hierarchical data storage.",
+          "answer": "",
+          "similarity": 0.8800973711627516
+        },
+        {
+          "doc_id": "DOC_032_chunk_0",
+          "question": "Explain the differences between SQL and NoSQL databases. Answer: SQL databases use structured query language with a predefined schema; NoSQL databases store schema-less data with flexible models.",
+          "answer": "",
+          "similarity": 0.8384987451255136
+        },
+        {
+          "doc_id": "DOC_139_chunk_0",
+          "question": "How do NoSQL databases handle data scaling compared to traditional SQL databases? Answer: NoSQL databases are generally more scalable and provide superior performance for large-scale applications due to their flexibility in handling unstructured data.",
+          "answer": "",
+          "similarity": 0.7006045185804954
+        },
+        {
+          "doc_id": "DOC_115_chunk_0",
+          "question": "How do NoSQL databases handle data scaling compared to traditional SQL databases? Answer: NoSQL databases are generally more scalable and provide superior performance for large-scale applications due to their flexibility in handling unstructured data.",
+          "answer": "",
+          "similarity": 0.7006045185804954
+        }
+      ],
+      "answer": "An error occurred while generating the answer with the AI service.",
+      "model": "gemini-1.5-pro",
+      "retrieval_latency_ms": 127.31480598449707,
+      "generation_latency_ms": 364.68505859375,
+      "total_latency_ms": 491.99986457824707
+    }
+  },
+  {
+    "query_id": "Q11",
+    "query": "How is containerization used in DevOps?",
+    "timestamp": 1789531702.7950642,
+    "baseline": {
+      "prompt": "How is containerization used in DevOps?",
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "model": "gemini-1.5-pro",
+      "latency_ms": 0.0
+    },
+    "rag": {
+      "prompt_context": [
+        "Source: Unknown company - None\nContent: Question: Describe the use of Docker in a DevOps environment. Answer: Docker allows for packaging applications in containers, facilitating consistent deployment across different environments.",
+        "Source: Unknown company - None\nContent: Question: Describe the use of Docker in a DevOps environment. Answer: Docker allows for packaging applications in containers, facilitating consistent deployment across different environments.",
+        "Source: Unknown company - None\nContent: Question: Describe the use of Docker in a DevOps environment. Answer: Docker allows for packaging applications in containers, facilitating consistent deployment across different environments.",
+        "Source: Unknown company - None\nContent: Question: Explain the concept of container orchestration. Answer: Container orchestration automates deployment, scaling, and management of containers, optimizing resource use and handling failures.",
+        "Source: Unknown company - None\nContent: Question: What is Kubernetes and how does it relate to containerization? Answer: Kubernetes is an open-source platform for automating deployment, scaling, and operations of application containers across clusters of hosts."
+      ],
+      "retrieved_evidence": [
+        {
+          "doc_id": "DOC_150_chunk_0",
+          "question": "Describe the use of Docker in a DevOps environment. Answer: Docker allows for packaging applications in containers, facilitating consistent deployment across different environments.",
+          "answer": "",
+          "similarity": 0.7156009931084777
+        },
+        {
+          "doc_id": "DOC_126_chunk_0",
+          "question": "Describe the use of Docker in a DevOps environment. Answer: Docker allows for packaging applications in containers, facilitating consistent deployment across different environments.",
+          "answer": "",
+          "similarity": 0.7156009931084777
+        },
+        {
+          "doc_id": "DOC_102_chunk_0",
+          "question": "Describe the use of Docker in a DevOps environment. Answer: Docker allows for packaging applications in containers, facilitating consistent deployment across different environments.",
+          "answer": "",
+          "similarity": 0.7156009931084777
+        },
+        {
+          "doc_id": "DOC_092_chunk_0",
+          "question": "Explain the concept of container orchestration. Answer: Container orchestration automates deployment, scaling, and management of containers, optimizing resource use and handling failures.",
+          "answer": "",
+          "similarity": 0.6338864925271848
+        },
+        {
+          "doc_id": "DOC_112_chunk_0",
+          "question": "What is Kubernetes and how does it relate to containerization? Answer: Kubernetes is an open-source platform for automating deployment, scaling, and operations of application containers across clusters of hosts.",
+          "answer": "",
+          "similarity": 0.622987167347858
+        }
+      ],
+      "answer": "An error occurred while generating the answer with the AI service.",
+      "model": "gemini-1.5-pro",
+      "retrieval_latency_ms": 86.23027801513672,
+      "generation_latency_ms": 395.8544731140137,
+      "total_latency_ms": 482.0847511291504
+    }
+  },
+  {
+    "query_id": "Q12",
+    "query": "What are common XSS vulnerabilities and how to prevent them?",
+    "timestamp": 1789531707.2344346,
+    "baseline": {
+      "prompt": "What are common XSS vulnerabilities and how to prevent them?",
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "model": "gemini-1.5-pro",
+      "latency_ms": 0.0
+    },
+    "rag": {
+      "prompt_context": [
+        "Source: Unknown company - None\nContent: Question: Explain the concept of Cross-Site Scripting (XSS). Answer: XSS injects malicious scripts into web apps, executed by users' browsers. Prevent with input validation, output encoding, and CSP."
+      ],
+      "retrieved_evidence": [
+        {
+          "doc_id": "DOC_082_chunk_0",
+          "question": "Explain the concept of Cross-Site Scripting (XSS). Answer: XSS injects malicious scripts into web apps, executed by users' browsers. Prevent with input validation, output encoding, and CSP.",
+          "answer": "",
+          "similarity": 0.6232090043315962
+        }
+      ],
+      "answer": "An error occurred while generating the answer with the AI service.",
+      "model": "gemini-1.5-pro",
+      "retrieval_latency_ms": 113.11960220336914,
+      "generation_latency_ms": 324.0032196044922,
+      "total_latency_ms": 437.1228218078613
+    }
+  }
+]

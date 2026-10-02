@@ -1,0 +1,191 @@
+{
+  "statistics": {
+    "emb": {
+      "mean": 222.19463984171549,
+      "median": 113.52133750915527,
+      "min": 73.58717918395996,
+      "max": 1287.2626781463623,
+      "std": 295.1937765012338
+    },
+    "vec": {
+      "mean": 31.29083315531413,
+      "median": 20.005226135253906,
+      "min": 15.529394149780273,
+      "max": 182.80935287475586,
+      "std": 40.71338381043085
+    },
+    "retrieval": {
+      "mean": 253.48547299702963,
+      "median": 133.26096534729004,
+      "min": 89.5838737487793,
+      "max": 1470.0720310211182,
+      "std": 335.26202438426134
+    },
+    "llm": {
+      "mean": 1118.9685185750325,
+      "median": 413.2664203643799,
+      "min": 0.0,
+      "max": 8347.02754020691,
+      "std": 2107.4066128209506
+    },
+    "total": {
+      "mean": 1374.867312113444,
+      "median": 558.5870742797852,
+      "min": 126.06692314147949,
+      "max": 8463.228225708008,
+      "std": 2225.2423995653376
+    }
+  },
+  "raw": [
+    {
+      "query_id": "Q01",
+      "query": "How does compilation differ from interpretation?",
+      "embedding_ms": 1287.2626781463623,
+      "vector_ms": 182.80935287475586,
+      "retrieval_ms": 1470.0720310211182,
+      "llm_ms": 3690.023899078369,
+      "total_ms": 5160.095930099487,
+      "success": true
+    },
+    {
+      "query_id": "Q02",
+      "query": "What object-oriented concepts should I know for interviews?",
+      "embedding_ms": 222.11861610412598,
+      "vector_ms": 20.005226135253906,
+      "retrieval_ms": 242.12384223937988,
+      "llm_ms": 413.7909412384033,
+      "total_ms": 655.9147834777832,
+      "success": false
+    },
+    {
+      "query_id": "Q03",
+      "query": "What should I understand about database normalization?",
+      "embedding_ms": 113.52133750915527,
+      "vector_ms": 19.739627838134766,
+      "retrieval_ms": 133.26096534729004,
+      "llm_ms": 381.101131439209,
+      "total_ms": 514.362096786499,
+      "success": false
+    },
+    {
+      "query_id": "Q04",
+      "query": "How does caching improve system performance?",
+      "embedding_ms": 76.64942741394043,
+      "vector_ms": 19.553661346435547,
+      "retrieval_ms": 96.20308876037598,
+      "llm_ms": 462.3839855194092,
+      "total_ms": 558.5870742797852,
+      "success": false
+    },
+    {
+      "query_id": "Q05",
+      "query": "What are common approaches to handling concurrent requests?",
+      "embedding_ms": 106.05382919311523,
+      "vector_ms": 20.013093948364258,
+      "retrieval_ms": 126.06692314147949,
+      "llm_ms": 0.0,
+      "total_ms": 126.06692314147949,
+      "success": true
+    },
+    {
+      "query_id": "Q06",
+      "query": "What are the benefits of using a version control system?",
+      "embedding_ms": 73.58717918395996,
+      "vector_ms": 15.996694564819336,
+      "retrieval_ms": 89.5838737487793,
+      "llm_ms": 404.2515754699707,
+      "total_ms": 493.83544921875,
+      "success": false
+    },
+    {
+      "query_id": "Q07",
+      "query": "How do load balancers work in distributed systems?",
+      "embedding_ms": 374.6683597564697,
+      "vector_ms": 34.46531295776367,
+      "retrieval_ms": 409.1336727142334,
+      "llm_ms": 578.8040161132812,
+      "total_ms": 988.9824390411377,
+      "success": false
+    },
+    {
+      "query_id": "Q08",
+      "query": "What is the difference between SQL and NoSQL databases?",
+      "embedding_ms": 219.3000316619873,
+      "vector_ms": 21.00372314453125,
+      "retrieval_ms": 240.30375480651855,
+      "llm_ms": 429.8717975616455,
+      "total_ms": 670.1755523681641,
+      "success": false
+    },
+    {
+      "query_id": "Q09",
+      "query": "Explain the concept of microservices architecture.",
+      "embedding_ms": 215.95287322998047,
+      "vector_ms": 22.02153205871582,
+      "retrieval_ms": 237.9744052886963,
+      "llm_ms": 364.9721145629883,
+      "total_ms": 637.0997428894043,
+      "success": false
+    },
+    {
+      "query_id": "Q10",
+      "query": "What are common software testing strategies?",
+      "embedding_ms": 121.95420265197754,
+      "vector_ms": 17.00425148010254,
+      "retrieval_ms": 138.95845413208008,
+      "llm_ms": 0.0,
+      "total_ms": 138.95845413208008,
+      "success": true
+    },
+    {
+      "query_id": "Q11",
+      "query": "How is containerization used in DevOps?",
+      "embedding_ms": 99.41363334655762,
+      "vector_ms": 15.529394149780273,
+      "retrieval_ms": 114.94302749633789,
+      "llm_ms": 568.7987804412842,
+      "total_ms": 683.7418079376221,
+      "success": false
+    },
+    {
+      "query_id": "Q12",
+      "query": "What are common XSS vulnerabilities and how to prevent them?",
+      "embedding_ms": 107.58423805236816,
+      "vector_ms": 19.008159637451172,
+      "retrieval_ms": 126.59239768981934,
+      "llm_ms": 413.2664203643799,
+      "total_ms": 539.8588180541992,
+      "success": false
+    },
+    {
+      "query_id": "Q13",
+      "query": "What is RESTful API design?",
+      "embedding_ms": 86.8830680847168,
+      "vector_ms": 18.6307430267334,
+      "retrieval_ms": 105.5138111114502,
+      "llm_ms": 333.3251476287842,
+      "total_ms": 438.8389587402344,
+      "success": false
+    },
+    {
+      "query_id": "Q14",
+      "query": "Explain the MVC design pattern.",
+      "embedding_ms": 93.10317039489746,
+      "vector_ms": 22.095680236816406,
+      "retrieval_ms": 115.19885063171387,
+      "llm_ms": 8347.02754020691,
+      "total_ms": 8463.228225708008,
+      "success": false
+    },
+    {
+      "query_id": "Q15",
+      "query": "What is a race condition and how do you prevent it?",
+      "embedding_ms": 134.86695289611816,
+      "vector_ms": 21.48604393005371,
+      "retrieval_ms": 156.35299682617188,
+      "llm_ms": 396.9104290008545,
+      "total_ms": 553.2634258270264,
+      "success": false
+    }
+  ]
+}

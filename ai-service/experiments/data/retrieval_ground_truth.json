@@ -1,0 +1,128 @@
+[
+  {
+    "query_id": "q1",
+    "query": "What questions are asked in Amazon SDE interviews?",
+    "relevant_interview_ids": ["int1"],
+    "category": "company-specific"
+  },
+  {
+    "query_id": "q2",
+    "query": "What are common system design topics?",
+    "relevant_interview_ids": ["int2", "int3", "mock_5", "mock_9", "mock_20"],
+    "category": "system design"
+  },
+  {
+    "query_id": "q3",
+    "query": "How many rounds are there for Microsoft SWE?",
+    "relevant_interview_ids": ["mock_5"],
+    "category": "interview rounds"
+  },
+  {
+    "query_id": "q4",
+    "query": "What data structures and algorithms should I prepare?",
+    "relevant_interview_ids": ["int2", "int1"],
+    "category": "DSA"
+  },
+  {
+    "query_id": "q5",
+    "query": "What was asked in the Google Frontend interview?",
+    "relevant_interview_ids": ["mock_4"],
+    "category": "role-specific"
+  },
+  {
+    "query_id": "q6",
+    "query": "What do Meta Data Engineers get asked?",
+    "relevant_interview_ids": ["mock_6"],
+    "category": "role-specific"
+  },
+  {
+    "query_id": "q7",
+    "query": "Are there iOS specific questions for Apple?",
+    "relevant_interview_ids": ["mock_7"],
+    "category": "role-specific"
+  },
+  {
+    "query_id": "q8",
+    "query": "What should I know for Stripe backend?",
+    "relevant_interview_ids": ["mock_8"],
+    "category": "company-specific"
+  },
+  {
+    "query_id": "q9",
+    "query": "What are Netflix system design interviews like?",
+    "relevant_interview_ids": ["mock_9"],
+    "category": "company-specific"
+  },
+  {
+    "query_id": "q10",
+    "query": "Data science questions at Amazon",
+    "relevant_interview_ids": ["mock_10"],
+    "category": "technical topics"
+  },
+  {
+    "query_id": "q11",
+    "query": "What behavioral questions does Google ask?",
+    "relevant_interview_ids": ["mock_11"],
+    "category": "general interview-preparation"
+  },
+  {
+    "query_id": "q12",
+    "query": "ML engineer backpropagation Meta",
+    "relevant_interview_ids": ["mock_12"],
+    "category": "technical topics"
+  },
+  {
+    "query_id": "q13",
+    "query": "How to prepare for a Product Manager role at Microsoft?",
+    "relevant_interview_ids": ["mock_13"],
+    "category": "role-specific"
+  },
+  {
+    "query_id": "q14",
+    "query": "Hardware engineering Apple interview topics",
+    "relevant_interview_ids": ["mock_14"],
+    "category": "company-specific"
+  },
+  {
+    "query_id": "q15",
+    "query": "Snowflake SWE distributed systems consensus",
+    "relevant_interview_ids": ["mock_15"],
+    "category": "technical topics"
+  },
+  {
+    "query_id": "q16",
+    "query": "SDET automated testing at Amazon",
+    "relevant_interview_ids": ["mock_16"],
+    "category": "role-specific"
+  },
+  {
+    "query_id": "q17",
+    "query": "Google Cloud Architect Kubernetes",
+    "relevant_interview_ids": ["mock_17"],
+    "category": "technical topics"
+  },
+  {
+    "query_id": "q18",
+    "query": "Geospatial indexing at Uber",
+    "relevant_interview_ids": ["mock_18"],
+    "category": "company-specific"
+  },
+  {
+    "query_id": "q19",
+    "query": "Spotify frontend Web Audio API",
+    "relevant_interview_ids": ["mock_19"],
+    "category": "role-specific"
+  },
+  {
+    "query_id": "q20",
+    "query": "Airbnb React component and system design",
+    "relevant_interview_ids": ["mock_20"],
+    "category": "company-specific"
+  },
+  {
+    "query_id": "q21",
+    "query": "What should I prepare for technical interviews?",
+    "relevant_interview_ids": ["int2", "int1", "mock_4", "mock_5", "mock_10", "mock_20"],
+    "category": "general interview-preparation"
+  }
+]

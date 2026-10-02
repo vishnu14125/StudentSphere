@@ -1,0 +1,16 @@
+C:\Users\Vishnu\Web projects\MERN\StudentSphere\ai-service\app\services\llm_service.py:4: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+Running Generative Evaluation (RAG vs Non-RAG)...
+Query: What questions are asked in Amazon SDE interviews?
+Query: What topics commonly appear in software engineering interviews?
+Query: What should I know for Stripe backend?
+Query: Data science questions at Amazon
+Query: Geospatial indexing at Uber
+Generative evaluation completed. Note: LLM-as-a-judge scoring is omitted here to conserve quota. Manual/heuristic inspection of these results is recommended in EXPERIMENT_REPORT.md.

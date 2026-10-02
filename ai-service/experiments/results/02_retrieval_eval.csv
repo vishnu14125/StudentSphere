@@ -1,0 +1,22 @@
+query_id,query,category,tfidf_precision_5,tfidf_recall_5,tfidf_mrr,semantic_precision_5,semantic_recall_5,semantic_mrr
+q1,What questions are asked in Amazon SDE interviews?,company-specific,0.2,1.0,1.0,0.2,1.0,0.3333333333333333
+q2,What are common system design topics?,system design,0.6,0.6,1.0,0.6,0.6,1.0
+q3,How many rounds are there for Microsoft SWE?,interview rounds,0.2,1.0,1.0,0.2,1.0,1.0
+q4,What data structures and algorithms should I prepare?,DSA,0.2,0.5,1.0,0.4,1.0,1.0
+q5,What was asked in the Google Frontend interview?,role-specific,0.2,1.0,1.0,0.2,1.0,0.25
+q6,What do Meta Data Engineers get asked?,role-specific,0.2,1.0,1.0,0.2,1.0,0.5
+q7,Are there iOS specific questions for Apple?,role-specific,0.2,1.0,1.0,0.2,1.0,1.0
+q8,What should I know for Stripe backend?,company-specific,0.2,1.0,1.0,0.2,1.0,1.0
+q9,What are Netflix system design interviews like?,company-specific,0.2,1.0,0.3333333333333333,0.2,1.0,1.0
+q10,Data science questions at Amazon,technical topics,0.2,1.0,1.0,0.2,1.0,1.0
+q11,What behavioral questions does Google ask?,general interview-preparation,0.2,1.0,1.0,0.2,1.0,1.0
+q12,ML engineer backpropagation Meta,technical topics,0.2,1.0,1.0,0.2,1.0,1.0
+q13,How to prepare for a Product Manager role at Microsoft?,role-specific,0.2,1.0,0.3333333333333333,0.2,1.0,1.0
+q14,Hardware engineering Apple interview topics,company-specific,0.2,1.0,1.0,0.2,1.0,1.0
+q15,Snowflake SWE distributed systems consensus,technical topics,0.2,1.0,1.0,0.2,1.0,1.0
+q16,SDET automated testing at Amazon,role-specific,0.2,1.0,1.0,0.2,1.0,1.0
+q17,Google Cloud Architect Kubernetes,technical topics,0.2,1.0,1.0,0.2,1.0,1.0
+q18,Geospatial indexing at Uber,company-specific,0.2,1.0,1.0,0.2,1.0,1.0
+q19,Spotify frontend Web Audio API,role-specific,0.2,1.0,1.0,0.2,1.0,1.0
+q20,Airbnb React component and system design,company-specific,0.2,1.0,1.0,0.2,1.0,1.0
+q21,What should I prepare for technical interviews?,general interview-preparation,0.4,0.3333333333333333,1.0,0.4,0.3333333333333333,1.0

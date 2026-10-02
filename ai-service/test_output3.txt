@@ -1,0 +1,100 @@
+Starting validation tests...
+Embedding model: sentence-transformers/all-MiniLM-L6-v2
+OPENAI_MODEL: gpt-4o-mini
+
+--- 1. Indexing Data ---
+Indexed 3 documents successfully.
+
+--- 2. Executing Queries ---
+
+Query: What questions were asked in Amazon SDE interviews?
+{
+  "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+  "insights": [],
+  "sources": [],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.452,
+    "llm_latency_sec": 0.0,
+    "total_latency_sec": 0.452,
+    "chunks_retrieved": 0
+  }
+}
+
+Query: What topics commonly appear in software engineering interviews?
+OpenAI LLM generation failed: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+{
+  "answer": "An error occurred while generating the answer with the AI service.",
+  "insights": [
+    "Software",
+    "Engineer"
+  ],
+  "sources": [
+    {
+      "interviewId": "int2",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Software Engineer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.7386510227559387,
+      "excerpt": "Software engineering interviews usually cover Data Structures, Algorithms, and System Design. You should prepare well."
+    }
+  ],
+  "grounded": true,
+  "success": false,
+  "metrics": {
+    "retrieval_latency_sec": 0.832,
+    "llm_latency_sec": 6.666,
+    "total_latency_sec": 7.498,
+    "chunks_retrieved": 1
+  }
+}
+
+Query: What should I prepare for technical interviews?
+OpenAI LLM generation failed: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+{
+  "answer": "An error occurred while generating the answer with the AI service.",
+  "insights": [
+    "Software",
+    "Engineer"
+  ],
+  "sources": [
+    {
+      "interviewId": "int2",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Software Engineer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.6379639032505102,
+      "excerpt": "Software engineering interviews usually cover Data Structures, Algorithms, and System Design. You should prepare well."
+    }
+  ],
+  "grounded": true,
+  "success": false,
+  "metrics": {
+    "retrieval_latency_sec": 5.496,
+    "llm_latency_sec": 4.798,
+    "total_latency_sec": 10.295,
+    "chunks_retrieved": 1
+  }
+}
+
+--- 3. Testing High Threshold (No Evidence) ---
+{
+  "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+  "insights": [],
+  "sources": [],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 1.285,
+    "llm_latency_sec": 0.0,
+    "total_latency_sec": 1.285,
+    "chunks_retrieved": 0
+  }
+}
+
+Validation complete.

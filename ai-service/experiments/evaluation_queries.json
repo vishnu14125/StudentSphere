@@ -1,0 +1,302 @@
+[
+  {
+    "query_id": "Q_001",
+    "query": "164",
+    "relevant_categories": [
+      "Algorithms"
+    ],
+    "relevant_document_ids": [
+      "DOC_164",
+      "DOC_152",
+      "DOC_155"
+    ]
+  },
+  {
+    "query_id": "Q_002",
+    "query": "29",
+    "relevant_categories": [
+      "Languages and Frameworks"
+    ],
+    "relevant_document_ids": [
+      "DOC_029",
+      "DOC_021",
+      "DOC_022"
+    ]
+  },
+  {
+    "query_id": "Q_003",
+    "query": "7",
+    "relevant_categories": [
+      "General Programming"
+    ],
+    "relevant_document_ids": [
+      "DOC_007",
+      "DOC_001",
+      "DOC_002"
+    ]
+  },
+  {
+    "query_id": "Q_004",
+    "query": "190",
+    "relevant_categories": [
+      "System Design"
+    ],
+    "relevant_document_ids": [
+      "DOC_190",
+      "DOC_071",
+      "DOC_072"
+    ]
+  },
+  {
+    "query_id": "Q_005",
+    "query": "71",
+    "relevant_categories": [
+      "System Design"
+    ],
+    "relevant_document_ids": [
+      "DOC_071",
+      "DOC_072",
+      "DOC_073"
+    ]
+  },
+  {
+    "query_id": "Q_006",
+    "query": "63",
+    "relevant_categories": [
+      "Version Control"
+    ],
+    "relevant_document_ids": [
+      "DOC_063",
+      "DOC_061",
+      "DOC_062"
+    ]
+  },
+  {
+    "query_id": "Q_007",
+    "query": "58",
+    "relevant_categories": [
+      "Software Testing"
+    ],
+    "relevant_document_ids": [
+      "DOC_058",
+      "DOC_051",
+      "DOC_052"
+    ]
+  },
+  {
+    "query_id": "Q_008",
+    "query": "36",
+    "relevant_categories": [
+      "Database and SQL"
+    ],
+    "relevant_document_ids": [
+      "DOC_036",
+      "DOC_031",
+      "DOC_032"
+    ]
+  },
+  {
+    "query_id": "Q_009",
+    "query": "189",
+    "relevant_categories": [
+      "Algorithms"
+    ],
+    "relevant_document_ids": [
+      "DOC_189",
+      "DOC_152",
+      "DOC_155"
+    ]
+  },
+  {
+    "query_id": "Q_010",
+    "query": "27",
+    "relevant_categories": [
+      "Languages and Frameworks"
+    ],
+    "relevant_document_ids": [
+      "DOC_027",
+      "DOC_021",
+      "DOC_022"
+    ]
+  },
+  {
+    "query_id": "Q_011",
+    "query": "174",
+    "relevant_categories": [
+      "Distributed Systems"
+    ],
+    "relevant_document_ids": [
+      "DOC_174",
+      "DOC_156",
+      "DOC_169"
+    ]
+  },
+  {
+    "query_id": "Q_012",
+    "query": "140",
+    "relevant_categories": [
+      "Front-end"
+    ],
+    "relevant_document_ids": [
+      "DOC_140",
+      "DOC_101",
+      "DOC_104"
+    ]
+  },
+  {
+    "query_id": "Q_013",
+    "query": "23",
+    "relevant_categories": [
+      "Languages and Frameworks"
+    ],
+    "relevant_document_ids": [
+      "DOC_023",
+      "DOC_021",
+      "DOC_022"
+    ]
+  },
+  {
+    "query_id": "Q_014",
+    "query": "152",
+    "relevant_categories": [
+      "Algorithms"
+    ],
+    "relevant_document_ids": [
+      "DOC_152",
+      "DOC_155",
+      "DOC_163"
+    ]
+  },
+  {
+    "query_id": "Q_015",
+    "query": "109",
+    "relevant_categories": [
+      "Full-stack"
+    ],
+    "relevant_document_ids": [
+      "DOC_109",
+      "DOC_108",
+      "DOC_118"
+    ]
+  },
+  {
+    "query_id": "Q_016",
+    "query": "9",
+    "relevant_categories": [
+      "General Programming"
+    ],
+    "relevant_document_ids": [
+      "DOC_009",
+      "DOC_001",
+      "DOC_002"
+    ]
+  },
+  {
+    "query_id": "Q_017",
+    "query": "8",
+    "relevant_categories": [
+      "General Programming"
+    ],
+    "relevant_document_ids": [
+      "DOC_008",
+      "DOC_001",
+      "DOC_002"
+    ]
+  },
+  {
+    "query_id": "Q_018",
+    "query": "24",
+    "relevant_categories": [
+      "Languages and Frameworks"
+    ],
+    "relevant_document_ids": [
+      "DOC_024",
+      "DOC_021",
+      "DOC_022"
+    ]
+  },
+  {
+    "query_id": "Q_019",
+    "query": "56",
+    "relevant_categories": [
+      "Software Testing"
+    ],
+    "relevant_document_ids": [
+      "DOC_056",
+      "DOC_051",
+      "DOC_052"
+    ]
+  },
+  {
+    "query_id": "Q_020",
+    "query": "60",
+    "relevant_categories": [
+      "Software Testing"
+    ],
+    "relevant_document_ids": [
+      "DOC_060",
+      "DOC_051",
+      "DOC_052"
+    ]
+  },
+  {
+    "query_id": "Q_021",
+    "query": "130",
+    "relevant_categories": [
+      "Front-end"
+    ],
+    "relevant_document_ids": [
+      "DOC_130",
+      "DOC_101",
+      "DOC_104"
+    ]
+  },
+  {
+    "query_id": "Q_022",
+    "query": "155",
+    "relevant_categories": [
+      "Algorithms"
+    ],
+    "relevant_document_ids": [
+      "DOC_155",
+      "DOC_152",
+      "DOC_163"
+    ]
+  },
+  {
+    "query_id": "Q_023",
+    "query": "198",
+    "relevant_categories": [
+      "Algorithms"
+    ],
+    "relevant_document_ids": [
+      "DOC_198",
+      "DOC_152",
+      "DOC_155"
+    ]
+  },
+  {
+    "query_id": "Q_024",
+    "query": "144",
+    "relevant_categories": [
+      "Full-stack"
+    ],
+    "relevant_document_ids": [
+      "DOC_144",
+      "DOC_108",
+      "DOC_109"
+    ]
+  },
+  {
+    "query_id": "Q_025",
+    "query": "51",
+    "relevant_categories": [
+      "Software Testing"
+    ],
+    "relevant_document_ids": [
+      "DOC_051",
+      "DOC_052",
+      "DOC_053"
+    ]
+  }
+]

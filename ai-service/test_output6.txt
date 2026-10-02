@@ -1,0 +1,163 @@
+C:\Users\Vishnu\Web projects\MERN\StudentSphere\ai-service\app\services\llm_service.py:4: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+Starting validation tests...
+Embedding model: sentence-transformers/all-MiniLM-L6-v2
+OPENAI_MODEL: gpt-4o-mini
+
+--- 1. Indexing Data ---
+Indexed 3 documents successfully.
+
+--- 2. Executing Queries ---
+
+Query: What questions were asked in Amazon SDE interviews?
+{
+  "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+  "insights": [],
+  "sources": [],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.106,
+    "llm_latency_sec": 0.0,
+    "total_latency_sec": 0.107,
+    "chunks_retrieved": 0
+  }
+}
+
+Query: What topics commonly appear in software engineering interviews?
+{
+  "answer": "Based on the provided interview experience, software engineering interviews usually cover the following topics:\n\n* **Data Structures**\n* **Algorithms**\n* **System Design**",
+  "insights": [
+    "Software",
+    "Engineer"
+  ],
+  "sources": [
+    {
+      "interviewId": "int2",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Software Engineer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.7386510227559387,
+      "excerpt": "Software engineering interviews usually cover Data Structures, Algorithms, and System Design. You should prepare well."
+    }
+  ],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.051,
+    "llm_latency_sec": 2.919,
+    "total_latency_sec": 2.97,
+    "chunks_retrieved": 1
+  }
+}
+
+Query: What should I prepare for technical interviews?
+{
+  "answer": "Based on the provided interview experience, software engineering technical interviews usually cover the following topics, so you should prepare for:\n\n* **Data Structures**\n* **Algorithms**\n* **System Design**",
+  "insights": [
+    "Software",
+    "Engineer"
+  ],
+  "sources": [
+    {
+      "interviewId": "int2",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Software Engineer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.6379639032505102,
+      "excerpt": "Software engineering interviews usually cover Data Structures, Algorithms, and System Design. You should prepare well."
+    }
+  ],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.058,
+    "llm_latency_sec": 4.254,
+    "total_latency_sec": 4.312,
+    "chunks_retrieved": 1
+  }
+}
+
+Query: What was reported about system design interviews?
+{
+  "answer": "Based on the provided interview experiences, the following details were reported regarding system design interviews:\n\n* **In a General Software Engineer context:** System Design is one of the standard topics usually covered in software engineering interviews (alongside Data Structures and Algorithms), and candidates are advised to prepare well for it.\n* **In a General Backend Developer context:** System design interviews specifically focus on key architectural topics including **scalability**, **database sharding**, **caching**, and **load balancing**.",
+  "insights": [
+    "Software",
+    "Engineer",
+    "Backend",
+    "Developer"
+  ],
+  "sources": [
+    {
+      "interviewId": "int2",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Software Engineer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.570324145071424,
+      "excerpt": "Software engineering interviews usually cover Data Structures, Algorithms, and System Design. You should prepare well."
+    },
+    {
+      "interviewId": "int3",
+      "title": "Interview experience",
+      "company": "General",
+      "role": "Backend Developer",
+      "year": 2023,
+      "source": "StudentSphere submission",
+      "score": 0.5178968649219476,
+      "excerpt": "System design interviews focus on scalability, database sharding, caching, and load balancing."
+    }
+  ],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.074,
+    "llm_latency_sec": 2.969,
+    "total_latency_sec": 3.043,
+    "chunks_retrieved": 2
+  }
+}
+
+Query: How do I cook a turkey?
+{
+  "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+  "insights": [],
+  "sources": [],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.023,
+    "llm_latency_sec": 0.0,
+    "total_latency_sec": 0.023,
+    "chunks_retrieved": 0
+  }
+}
+
+--- 3. Testing High Threshold (No Evidence) ---
+{
+  "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+  "insights": [],
+  "sources": [],
+  "grounded": true,
+  "success": true,
+  "metrics": {
+    "retrieval_latency_sec": 0.018,
+    "llm_latency_sec": 0.0,
+    "total_latency_sec": 0.018,
+    "chunks_retrieved": 0
+  }
+}
+
+Validation complete.

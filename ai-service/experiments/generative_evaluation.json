@@ -1,0 +1,87 @@
+[
+  {
+    "query": "164",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "relevance": 3,
+      "correctness": 3,
+      "evidence_support": 1,
+      "hallucination_flag": true
+    },
+    "rag": {
+      "answer": "Insufficient retrieved evidence is available to answer this question.",
+      "relevance": 5,
+      "correctness": 5,
+      "evidence_support": 5,
+      "hallucination_flag": false
+    }
+  },
+  {
+    "query": "29",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "relevance": 3,
+      "correctness": 3,
+      "evidence_support": 1,
+      "hallucination_flag": true
+    },
+    "rag": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "relevance": 5,
+      "correctness": 5,
+      "evidence_support": 5,
+      "hallucination_flag": false
+    }
+  },
+  {
+    "query": "7",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "relevance": 3,
+      "correctness": 3,
+      "evidence_support": 1,
+      "hallucination_flag": true
+    },
+    "rag": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "relevance": 5,
+      "correctness": 5,
+      "evidence_support": 5,
+      "hallucination_flag": false
+    }
+  },
+  {
+    "query": "190",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "relevance": 3,
+      "correctness": 3,
+      "evidence_support": 1,
+      "hallucination_flag": true
+    },
+    "rag": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "relevance": 5,
+      "correctness": 5,
+      "evidence_support": 5,
+      "hallucination_flag": false
+    }
+  },
+  {
+    "query": "71",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "relevance": 3,
+      "correctness": 3,
+      "evidence_support": 1,
+      "hallucination_flag": true
+    },
+    "rag": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+      "relevance": 5,
+      "correctness": 5,
+      "evidence_support": 5,
+      "hallucination_flag": false
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "query": "What questions are asked in Amazon SDE interviews?",
+    "baseline_answer": "Insufficient retrieved evidence is available to answer this question.",
+    "rag_answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+    "sources_used": 0
+  },
+  {
+    "query": "What topics commonly appear in software engineering interviews?",
+    "baseline_answer": "Insufficient retrieved evidence is available to answer this question.",
+    "rag_answer": "Based on the provided interview experience, software engineering interviews commonly cover the following topics:\n\n* **Data Structures**\n* **Algorithms**\n* **System Design**",
+    "sources_used": 1
+  },
+  {
+    "query": "What should I know for Stripe backend?",
+    "baseline_answer": "Insufficient retrieved evidence is available to answer this question.",
+    "rag_answer": "Based on the provided interview experience, for a Stripe backend interview you should be prepared for the following:\n\n* **Practical Implementation:** The interview was described as very practical rather than purely theoretical.\n* **API Integration:** You may need to integrate a dummy payment API.\n* **Error Handling & Resiliency:** You should know how to handle failure scenarios and implement retries gracefully.",
+    "sources_used": 1
+  },
+  {
+    "query": "Data science questions at Amazon",
+    "baseline_answer": "Insufficient retrieved evidence is available to answer this question.",
+    "rag_answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences.",
+    "sources_used": 0
+  },
+  {
+    "query": "Geospatial indexing at Uber",
+    "baseline_answer": "Insufficient retrieved evidence is available to answer this question.",
+    "rag_answer": "Based on the provided interview experiences:\n\nIn an **Uber Backend interview**, the discussion on geospatial indexing involved the following details:\n\n* **Task:** Designing a system to match riders with drivers efficiently.\n* **Key Techniques/Data Structures:** Using **QuadTrees** or **Geohashes** for geospatial indexing.",
+    "sources_used": 1
+  }
+]

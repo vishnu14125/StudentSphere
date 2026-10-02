@@ -1,0 +1,195 @@
+[
+  {
+    "query_id": "Q001",
+    "query": "What are common approaches to caching in distributed systems?",
+    "relevant_document_ids": [
+      "DOC_073",
+      "DOC_079",
+      "DOC_104",
+      "DOC_128",
+      "DOC_157"
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "query": "How does CI/CD improve software delivery?",
+    "relevant_document_ids": [
+      "DOC_094",
+      "DOC_097",
+      "DOC_107",
+      "DOC_119",
+      "DOC_131"
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "query": "What is the purpose of database normalization?",
+    "relevant_document_ids": [
+      "DOC_035",
+      "DOC_036",
+      "DOC_039",
+      "DOC_180"
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "query": "How does polymorphism work in object-oriented programming?",
+    "relevant_document_ids": [
+      "DOC_002",
+      "DOC_005",
+      "DOC_030"
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "query": "What are common XSS vulnerabilities?",
+    "relevant_document_ids": [
+      "DOC_082"
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "query": "What are the differences between TCP and UDP?",
+    "relevant_document_ids": [
+      "DOC_161"
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "query": "How is containerization used in DevOps?",
+    "relevant_document_ids": [
+      "DOC_091",
+      "DOC_092",
+      "DOC_093",
+      "DOC_102",
+      "DOC_112"
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "query": "What are common software testing strategies?",
+    "relevant_document_ids": [
+      "DOC_051",
+      "DOC_053",
+      "DOC_055",
+      "DOC_058",
+      "DOC_059"
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "query": "Explain the concept of microservices architecture.",
+    "relevant_document_ids": [
+      "DOC_071",
+      "DOC_075",
+      "DOC_110",
+      "DOC_134"
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "query": "How do load balancers work?",
+    "relevant_document_ids": [
+      "DOC_049",
+      "DOC_072",
+      "DOC_088",
+      "DOC_117",
+      "DOC_122"
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "query": "What is RESTful API design?",
+    "relevant_document_ids": [
+      "DOC_003",
+      "DOC_023",
+      "DOC_043",
+      "DOC_089",
+      "DOC_113"
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "query": "What are the principles of Agile methodology?",
+    "relevant_document_ids": [
+      "DOC_001",
+      "DOC_002"
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "query": "How does garbage collection work in programming languages?",
+    "relevant_document_ids": [
+      "DOC_007",
+      "DOC_159"
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "query": "What is the difference between SQL and NoSQL databases?",
+    "relevant_document_ids": [
+      "DOC_032",
+      "DOC_035",
+      "DOC_038",
+      "DOC_057",
+      "DOC_066"
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "query": "Explain the MVC design pattern.",
+    "relevant_document_ids": [
+      "DOC_008",
+      "DOC_022",
+      "DOC_032",
+      "DOC_054",
+      "DOC_065"
+    ]
+  },
+  {
+    "query_id": "Q016",
+    "query": "What is Dependency Injection?",
+    "relevant_document_ids": [
+      "DOC_001",
+      "DOC_002"
+    ]
+  },
+  {
+    "query_id": "Q017",
+    "query": "How does public key cryptography work?",
+    "relevant_document_ids": [
+      "DOC_090"
+    ]
+  },
+  {
+    "query_id": "Q018",
+    "query": "What are the benefits of using a version control system like Git?",
+    "relevant_document_ids": [
+      "DOC_061",
+      "DOC_062",
+      "DOC_063",
+      "DOC_064",
+      "DOC_065"
+    ]
+  },
+  {
+    "query_id": "Q019",
+    "query": "Explain the concept of Big O notation.",
+    "relevant_document_ids": [
+      "DOC_012",
+      "DOC_016",
+      "DOC_018"
+    ]
+  },
+  {
+    "query_id": "Q020",
+    "query": "What is a race condition in multi-threading?",
+    "relevant_document_ids": [
+      "DOC_028",
+      "DOC_078",
+      "DOC_103",
+      "DOC_127",
+      "DOC_162"
+    ]
+  }
+]

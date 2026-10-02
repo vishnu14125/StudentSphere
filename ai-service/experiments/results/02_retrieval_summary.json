@@ -1,0 +1,8 @@
+{
+  "mean_tfidf_precision_5": 0.2285714285714286,
+  "mean_tfidf_recall_5": 0.9253968253968254,
+  "mean_tfidf_mrr": 0.9365079365079364,
+  "mean_semantic_precision_5": 0.23809523809523814,
+  "mean_semantic_recall_5": 0.9492063492063492,
+  "mean_semantic_mrr": 0.9087301587301587
+}

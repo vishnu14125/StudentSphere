@@ -1,0 +1,47 @@
+[
+  {
+    "query": "What are common approaches to caching in distributed systems?",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences."
+    },
+    "rag": {
+      "answer": "Based on the provided interview experiences, common concepts, considerations, and strategies related to distributed caching include:\n\n* **Key Considerations in Distributed Caching:** \n  When implementing distributed caching, candidate responses highlight focusing on:\n  * **Consistency:** Maintaining uniform data across the system.\n  * **Data Partitioning:** Distributing cache data across multiple nodes.\n  * **Eviction Policies:** Managing how cached data is removed when memory limits are reached.\n  * **Fault Tolerance:** Ensuring the cache system remains operational despite node failures.\n\n* **System-Level Optimization Strategies:**\n  Caching is often combined with other techniques to improve latency and reduce backend load, including:\n  * Using **edge locations**\n  * Applying **load balancing**\n  * Optimizing **routing** and **data compression**\n\n* **Core Purpose of Caching:**\n  At a foundational level, caching involves storing frequently accessed data for faster retrieval, which helps reduce backend load and improve user experience."
+    }
+  },
+  {
+    "query": "How does CI/CD improve software delivery?",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences."
+    },
+    "rag": {
+      "answer": "Based on the provided interview experiences, CI/CD improves software delivery in the following ways:\n\n* **Automation of Core Processes:** CI/CD automates the build, test, and deployment phases, automatically deploying changes to production once testing is complete (Question 55, Question 94).\n* **Faster Delivery:** It enables code changes to be delivered rapidly, significantly speeding up overall delivery times (Question 94, Question 97).\n* **Enhanced Reliability and Quality:** Automated testing ensures that code changes are defect-free, increasing reliability when delivering code to production (Question 94, Question 97).\n* **Frequent Code Integration:** It supports frequent integration and testing of code updates (Question 55)."
+    }
+  },
+  {
+    "query": "What is the purpose of database normalization?",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences."
+    },
+    "rag": {
+      "answer": "Based on the provided interview experiences, the purpose of database normalization is to organize data into separate tables in order to:\n\n* **Reduce redundancy**\n* **Improve data integrity**\n\nThis is achieved by following standard normalization forms (Question 36)."
+    }
+  },
+  {
+    "query": "How does polymorphism work in object-oriented programming?",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences."
+    },
+    "rag": {
+      "answer": "Based on the provided interview experiences, polymorphism works as follows:\n\n* **Core Concept:** Polymorphism allows objects of different classes to be treated as objects of a common superclass, which enables method overriding (Question 2).\n* **Implementation via Virtual Functions:** In languages like C++, runtime polymorphism and dynamic method dispatch are enabled through virtual functions, which allow derived classes to override base class methods (Question 30).\n* **Purpose in OOP:** As one of the core Object-Oriented Programming (OOP) principles\u2014alongside encapsulation, inheritance, and abstraction\u2014polymorphism promotes organized and maintainable code (Question 5)."
+    }
+  },
+  {
+    "query": "What are common XSS vulnerabilities?",
+    "baseline": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. Try a broader question or add relevant interview experiences."
+    },
+    "rag": {
+      "answer": "Insufficient retrieved evidence is available to answer this question. \n\nThe provided context only defines XSS generally\u2014stating that it involves injecting malicious scripts into web applications to be executed by users' browsers\u2014and lists prevention methods, but it does not detail specific common XSS vulnerabilities."
+    }
+  }
+]

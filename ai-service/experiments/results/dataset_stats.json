@@ -1,0 +1,11 @@
+{
+  "total_experiences": 20,
+  "companies": 12,
+  "roles": 15,
+  "years": 2,
+  "rounds": "N/A (mock data limitation)",
+  "questions": "N/A (mock data limitation)",
+  "topics": "N/A (mock data limitation)",
+  "chunks": 20,
+  "data_source": "vector_store.pkl (Mock Evaluation Dataset)"
+}

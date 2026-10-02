@@ -1,0 +1,992 @@
+[
+  {
+    "query_id": "Q01",
+    "query": "How does compilation differ from interpretation?",
+    "candidates": [
+      {
+        "doc_id": "DOC_001",
+        "rank": 1,
+        "similarity": 0.8193857820478581,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_191",
+        "rank": 2,
+        "similarity": 0.49259273330879705,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_025",
+        "rank": 3,
+        "similarity": 0.32297548806746357,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_030",
+        "rank": 4,
+        "similarity": 0.28183024741674184,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_020",
+        "rank": 5,
+        "similarity": 0.27104486460022686,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_135",
+        "rank": 6,
+        "similarity": 0.2635324560337165,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_111",
+        "rank": 7,
+        "similarity": 0.2635324560337165,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_064",
+        "rank": 8,
+        "similarity": 0.25806439532118985,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_127",
+        "rank": 9,
+        "similarity": 0.25314955474994466,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_103",
+        "rank": 10,
+        "similarity": 0.25314955474994466,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q02",
+    "query": "What object-oriented concepts should I know for interviews?",
+    "candidates": [
+      {
+        "doc_id": "DOC_005",
+        "rank": 1,
+        "similarity": 0.5397511334863969,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_170",
+        "rank": 2,
+        "similarity": 0.4003952659031428,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_188",
+        "rank": 3,
+        "similarity": 0.3213731662816782,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_144",
+        "rank": 4,
+        "similarity": 0.31200480237845873,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_120",
+        "rank": 5,
+        "similarity": 0.31200480237845873,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_183",
+        "rank": 6,
+        "similarity": 0.3032539708417529,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_071",
+        "rank": 7,
+        "similarity": 0.2978842420233341,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_008",
+        "rank": 8,
+        "similarity": 0.2950181835203386,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_041",
+        "rank": 9,
+        "similarity": 0.28374694614465057,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_141",
+        "rank": 10,
+        "similarity": 0.27885632033724017,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q03",
+    "query": "What should I understand about database normalization?",
+    "candidates": [
+      {
+        "doc_id": "DOC_036",
+        "rank": 1,
+        "similarity": 0.8333588260557818,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_039",
+        "rank": 2,
+        "similarity": 0.5781666921036175,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_034",
+        "rank": 3,
+        "similarity": 0.4272169492576531,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_195",
+        "rank": 4,
+        "similarity": 0.37760855303187807,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_115",
+        "rank": 5,
+        "similarity": 0.3749066085249166,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_139",
+        "rank": 6,
+        "similarity": 0.3749066085249166,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_166",
+        "rank": 7,
+        "similarity": 0.3647935784461993,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_031",
+        "rank": 8,
+        "similarity": 0.33738813173144205,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_123",
+        "rank": 9,
+        "similarity": 0.3354104652111435,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_147",
+        "rank": 10,
+        "similarity": 0.3354104652111435,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q04",
+    "query": "How does caching improve system performance?",
+    "candidates": [
+      {
+        "doc_id": "DOC_073",
+        "rank": 1,
+        "similarity": 0.747461786827403,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_184",
+        "rank": 2,
+        "similarity": 0.5791095785491726,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_128",
+        "rank": 3,
+        "similarity": 0.43617156014874214,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_104",
+        "rank": 4,
+        "similarity": 0.43617156014874214,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_166",
+        "rank": 5,
+        "similarity": 0.39395237866278543,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_123",
+        "rank": 6,
+        "similarity": 0.3797298207651747,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_147",
+        "rank": 7,
+        "similarity": 0.3797298207651747,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_157",
+        "rank": 8,
+        "similarity": 0.3356161978258887,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_168",
+        "rank": 9,
+        "similarity": 0.32247288436718935,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_096",
+        "rank": 10,
+        "similarity": 0.3189007245888999,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q05",
+    "query": "What are common approaches to handling concurrent requests?",
+    "candidates": [
+      {
+        "doc_id": "DOC_162",
+        "rank": 1,
+        "similarity": 0.4573039271308863,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_078",
+        "rank": 2,
+        "similarity": 0.43279978886877973,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_177",
+        "rank": 3,
+        "similarity": 0.3788733896390575,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_165",
+        "rank": 4,
+        "similarity": 0.36156274300439006,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_184",
+        "rank": 5,
+        "similarity": 0.360049600200215,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_028",
+        "rank": 6,
+        "similarity": 0.34070970849359683,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_137",
+        "rank": 7,
+        "similarity": 0.3285932152099319,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_113",
+        "rank": 8,
+        "similarity": 0.3285932152099319,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_187",
+        "rank": 9,
+        "similarity": 0.3279812625342965,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_048",
+        "rank": 10,
+        "similarity": 0.32297070363626207,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q06",
+    "query": "What are the benefits of using a version control system?",
+    "candidates": [
+      {
+        "doc_id": "DOC_070",
+        "rank": 1,
+        "similarity": 0.7042042840622642,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_064",
+        "rank": 2,
+        "similarity": 0.6333616408158431,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_061",
+        "rank": 3,
+        "similarity": 0.4309233060472369,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_174",
+        "rank": 4,
+        "similarity": 0.3618070422315334,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_119",
+        "rank": 5,
+        "similarity": 0.3615182414344078,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_143",
+        "rank": 6,
+        "similarity": 0.3615182414344078,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_073",
+        "rank": 7,
+        "similarity": 0.3385752543852846,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_078",
+        "rank": 8,
+        "similarity": 0.3286589364808819,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_099",
+        "rank": 9,
+        "similarity": 0.32469193337771657,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_100",
+        "rank": 10,
+        "similarity": 0.3137185907883375,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q07",
+    "query": "How do load balancers work in distributed systems?",
+    "candidates": [
+      {
+        "doc_id": "DOC_146",
+        "rank": 1,
+        "similarity": 0.8333994869262771,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_122",
+        "rank": 2,
+        "similarity": 0.8333994869262771,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_072",
+        "rank": 3,
+        "similarity": 0.7446350295196679,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_058",
+        "rank": 4,
+        "similarity": 0.44730169224840544,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_070",
+        "rank": 5,
+        "similarity": 0.437106535964768,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_184",
+        "rank": 6,
+        "similarity": 0.4231318307958757,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_187",
+        "rank": 7,
+        "similarity": 0.3949025399605542,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_077",
+        "rank": 8,
+        "similarity": 0.3881602701904147,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_174",
+        "rank": 9,
+        "similarity": 0.3853160527086469,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_028",
+        "rank": 10,
+        "similarity": 0.37697647108495924,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q08",
+    "query": "What is the difference between SQL and NoSQL databases?",
+    "candidates": [
+      {
+        "doc_id": "DOC_129",
+        "rank": 1,
+        "similarity": 0.8800973711627516,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_105",
+        "rank": 2,
+        "similarity": 0.8800973711627516,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_032",
+        "rank": 3,
+        "similarity": 0.8384987451255136,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_139",
+        "rank": 4,
+        "similarity": 0.7006045185804954,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_115",
+        "rank": 5,
+        "similarity": 0.7006045185804954,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_013",
+        "rank": 6,
+        "similarity": 0.39193377829829334,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_031",
+        "rank": 7,
+        "similarity": 0.3800090913847234,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_040",
+        "rank": 8,
+        "similarity": 0.3775601061626914,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_034",
+        "rank": 9,
+        "similarity": 0.3458232281956366,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_039",
+        "rank": 10,
+        "similarity": 0.31762021398518875,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q09",
+    "query": "Explain the concept of microservices architecture.",
+    "candidates": [
+      {
+        "doc_id": "DOC_071",
+        "rank": 1,
+        "similarity": 0.8552830547380521,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_134",
+        "rank": 2,
+        "similarity": 0.759250567636984,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_110",
+        "rank": 3,
+        "similarity": 0.759250567636984,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_143",
+        "rank": 4,
+        "similarity": 0.7241056729721327,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_119",
+        "rank": 5,
+        "similarity": 0.7241056729721327,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_075",
+        "rank": 6,
+        "similarity": 0.5729124435352605,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_092",
+        "rank": 7,
+        "similarity": 0.4571234227044886,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_080",
+        "rank": 8,
+        "similarity": 0.4097015388075127,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_141",
+        "rank": 9,
+        "similarity": 0.39115125563423836,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_117",
+        "rank": 10,
+        "similarity": 0.39115125563423836,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q10",
+    "query": "What are common software testing strategies?",
+    "candidates": [
+      {
+        "doc_id": "DOC_051",
+        "rank": 1,
+        "similarity": 0.48332365275712197,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_097",
+        "rank": 2,
+        "similarity": 0.4179768614787248,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_053",
+        "rank": 3,
+        "similarity": 0.41745063031938145,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_056",
+        "rank": 4,
+        "similarity": 0.3825268215005226,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_057",
+        "rank": 5,
+        "similarity": 0.3755385823243942,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_058",
+        "rank": 6,
+        "similarity": 0.3430023044217453,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_059",
+        "rank": 7,
+        "similarity": 0.33233708510984916,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_066",
+        "rank": 8,
+        "similarity": 0.29994720431912897,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_060",
+        "rank": 9,
+        "similarity": 0.29916866909605855,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_094",
+        "rank": 10,
+        "similarity": 0.2970074189559264,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q11",
+    "query": "How is containerization used in DevOps?",
+    "candidates": [
+      {
+        "doc_id": "DOC_150",
+        "rank": 1,
+        "similarity": 0.7156009931084777,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_126",
+        "rank": 2,
+        "similarity": 0.7156009931084777,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_102",
+        "rank": 3,
+        "similarity": 0.7156009931084777,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_092",
+        "rank": 4,
+        "similarity": 0.6338864925271848,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_112",
+        "rank": 5,
+        "similarity": 0.622987167347858,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_136",
+        "rank": 6,
+        "similarity": 0.622987167347858,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_091",
+        "rank": 7,
+        "similarity": 0.5980255338464024,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_093",
+        "rank": 8,
+        "similarity": 0.5418227215051865,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_131",
+        "rank": 9,
+        "similarity": 0.4695081687005058,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_107",
+        "rank": 10,
+        "similarity": 0.4695081687005058,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q12",
+    "query": "What are common XSS vulnerabilities and how to prevent them?",
+    "candidates": [
+      {
+        "doc_id": "DOC_082",
+        "rank": 1,
+        "similarity": 0.6232090043315962,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_081",
+        "rank": 2,
+        "similarity": 0.3083312945231708,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_086",
+        "rank": 3,
+        "similarity": 0.27216842228681276,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_167",
+        "rank": 4,
+        "similarity": 0.2443770250888016,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_066",
+        "rank": 5,
+        "similarity": 0.21965362399067592,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_090",
+        "rank": 6,
+        "similarity": 0.20571382126259077,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_196",
+        "rank": 7,
+        "similarity": 0.19254531901710675,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_043",
+        "rank": 8,
+        "similarity": 0.18972751527704648,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_135",
+        "rank": 9,
+        "similarity": 0.18849592340114324,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_111",
+        "rank": 10,
+        "similarity": 0.18849592340114324,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q13",
+    "query": "What is RESTful API design?",
+    "candidates": [
+      {
+        "doc_id": "DOC_023",
+        "rank": 1,
+        "similarity": 0.7572085249450544,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_137",
+        "rank": 2,
+        "similarity": 0.6841839040323088,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_113",
+        "rank": 3,
+        "similarity": 0.6841839040323088,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_090",
+        "rank": 4,
+        "similarity": 0.43561568465126854,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_165",
+        "rank": 5,
+        "similarity": 0.3432922509632603,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_153",
+        "rank": 6,
+        "similarity": 0.33634825373562166,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_085",
+        "rank": 7,
+        "similarity": 0.3325214202692681,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_076",
+        "rank": 8,
+        "similarity": 0.32215433246972225,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_044",
+        "rank": 9,
+        "similarity": 0.32096708699817156,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_048",
+        "rank": 10,
+        "similarity": 0.32002400559454713,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q14",
+    "query": "Explain the MVC design pattern.",
+    "candidates": [
+      {
+        "doc_id": "DOC_022",
+        "rank": 1,
+        "similarity": 0.7465977539303784,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_133",
+        "rank": 2,
+        "similarity": 0.609263264840543,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_109",
+        "rank": 3,
+        "similarity": 0.609263264840543,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_008",
+        "rank": 4,
+        "similarity": 0.5614443023258584,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_041",
+        "rank": 5,
+        "similarity": 0.3580055623577813,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_047",
+        "rank": 6,
+        "similarity": 0.3395353567155266,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_121",
+        "rank": 7,
+        "similarity": 0.32125069682300833,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_145",
+        "rank": 8,
+        "similarity": 0.32125069682300833,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_050",
+        "rank": 9,
+        "similarity": 0.3033354290948501,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_079",
+        "rank": 10,
+        "similarity": 0.2954459575582433,
+        "relevance": null
+      }
+    ]
+  },
+  {
+    "query_id": "Q15",
+    "query": "What is a race condition and how do you prevent it?",
+    "candidates": [
+      {
+        "doc_id": "DOC_103",
+        "rank": 1,
+        "similarity": 0.6288193464415348,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_127",
+        "rank": 2,
+        "similarity": 0.6288193464415348,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_028",
+        "rank": 3,
+        "similarity": 0.2166573951534131,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_081",
+        "rank": 4,
+        "similarity": 0.20498261552284222,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_132",
+        "rank": 5,
+        "similarity": 0.19244395858873348,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_108",
+        "rank": 6,
+        "similarity": 0.19244395858873348,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_156",
+        "rank": 7,
+        "similarity": 0.18305205733387742,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_029",
+        "rank": 8,
+        "similarity": 0.18159288907821708,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_086",
+        "rank": 9,
+        "similarity": 0.17256449528135284,
+        "relevance": null
+      },
+      {
+        "doc_id": "DOC_030",
+        "rank": 10,
+        "similarity": 0.17255480857406066,
+        "relevance": null
+      }
+    ]
+  }
+]

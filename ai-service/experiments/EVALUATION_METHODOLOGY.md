@@ -1,0 +1,1 @@
+Manual relevance judging based on mapping deterministic categories. No Gemini API was used for ground-truth derivation.
